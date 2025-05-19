@@ -1,5 +1,31 @@
 export const ProjectsData = [
   {
+    name: "ARTE JUAN MAYOR",
+    description:
+      "Sitio web diseñado para presentar la obra del artista Juan Mayor. Incluye una galería interactiva categorizada, navegación fluida entre secciones y un diseño totalmente responsive. Desarrollado con React, utilizando React Router para el enrutamiento dinámico.",
+    href: "https://artejuanmayor.vercel.app/",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    imgSrc: "/assets/images/artejuanmayor.webp",
+    imgAlt: "Arte Juan Mayor",
+    github: {
+      href: "https://github.com/marugandev/arte-juan-mayor.git",
+      target: "_blank",
+      rel: "noopener noreferrer",
+      title: "Github",
+      src: "/assets/icons/github-logo-positivo.svg",
+      alt: "Github logo"
+    },
+    figma: {
+      href: "#",
+      target: "_blank",
+      rel: "noopener noreferrer",
+      title: "Figma",
+      /*  src: "/public/assets/icons/figma-logo-positivo.svg", */
+      alt: "Figma logo"
+    }
+  },
+  {
     name: "MUSIMOODS",
     description:
       "musimoOds es una aplicación que te permite descubrir música basada en tu estado de ánimo. Selecciona cómo te sientes, y la app te sugiere videos musicales de YouTube que se adapten a tu estado emocional. Ya sea que te sientas feliz, triste o relajado, musimoOds tiene una canción para ti.",

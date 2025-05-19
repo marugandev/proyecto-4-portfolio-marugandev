@@ -4,7 +4,7 @@ export const heroData = {
   description:
     "Full Stack Developer con estudios en publicidad y diseño gráfico.",
   imgLogo: "./public/assets/logo-positivo.svg",
-  imgPersonal: "/assets/images/IMG_512_NOBG.png",
+  imgPersonal: "/assets/images/IMG_512_NOBG.webp",
   skills: [
     {
       category: "Programming Languages",

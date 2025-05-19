@@ -20,11 +20,11 @@ export const Hero = () => {
   divImg.classList.add("img-container");
   const imgPersonal = document.createElement("img");
   imgPersonal.classList.add("heroImg", "heroImgMain");
-  imgPersonal.src = "/assets/images/IMG_519_NOBG.png";
+  imgPersonal.src = "/assets/images/IMG_519_NOBG.webp";
 
   const imgPersonalHover = document.createElement("img");
   imgPersonalHover.classList.add("heroImg", "heroImgHover");
-  imgPersonalHover.src = "/assets/images/IMG_512_NOBG.png";
+  imgPersonalHover.src = "/assets/images/IMG_512_NOBG.webp";
 
   const div = document.createElement("div");
   div.id = "heroTextContainer";

@@ -6,7 +6,7 @@ export const ProjectsData = [
     href: "https://front-proyecto-13-fraseandtisert.vercel.app/",
     target: "_blank",
     rel: "noopener noreferrer",
-    imgSrc: "/assets/images/1.app.webp.png",
+    imgSrc: "/assets/images/front-proyecto-13-fraseandtisert.vercel.app.webp",
     imgAlt: "fraseandtisert - front",
     github: {
       href: "https://github.com/marugandev/FRONT-proyecto-13-fraseandtisert",

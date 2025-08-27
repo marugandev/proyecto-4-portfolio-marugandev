@@ -1,5 +1,57 @@
 export const ProjectsData = [
   {
+    name: "FRASEANDTISERT - FRONT",
+    description:
+      "fraseandtisert es un proyecto full-stack que ofrece una API para gestionar autenticación, usuarios, productos, pedidos y otras funcionalidades relacionadas. El modelo de negocio es una tienda de camisetas.",
+    href: "https://artejuanmayor.vercel.app/",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    imgSrc: "/assets/images/front-proyecto-13-fraseandtisert.vercel.app.webp",
+    imgAlt: "fraseandtisert - front",
+    github: {
+      href: "https://github.com/marugandev/FRONT-proyecto-13-fraseandtisert",
+      target: "_blank",
+      rel: "noopener noreferrer",
+      title: "Github",
+      src: "/assets/icons/github-logo-positivo.svg",
+      alt: "Github logo"
+    },
+    figma: {
+      href: "#",
+      target: "_blank",
+      rel: "noopener noreferrer",
+      title: "Figma",
+      /*  src: "/public/assets/icons/figma-logo-positivo.svg", */
+      alt: "Figma logo"
+    }
+  },
+  {
+    name: "FRASEANDTISERT - BACK",
+    description:
+      "ffraseandtisert es un proyecto full-stack que proporciona una API para gestionar autenticaciones, usuarios, productos, pedidos y funcionalidades relacionadas.",
+    href: "https://artejuanmayor.vercel.app/",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    imgSrc: "/assets/images/back-proyecto-13-fraseandtisert.vercel.app.webp",
+    imgAlt: "fraseandtisert - back",
+    github: {
+      href: "https://github.com/marugandev/BACK-proyecto-13-fraseandtisert",
+      target: "_blank",
+      rel: "noopener noreferrer",
+      title: "Github",
+      src: "/assets/icons/github-logo-positivo.svg",
+      alt: "Github logo"
+    },
+    figma: {
+      href: "#",
+      target: "_blank",
+      rel: "noopener noreferrer",
+      title: "Figma",
+      /*  src: "/public/assets/icons/figma-logo-positivo.svg", */
+      alt: "Figma logo"
+    }
+  },
+  {
     name: "ARTE JUAN MAYOR",
     description:
       "Sitio web diseñado para presentar la obra del artista Juan Mayor. Incluye una galería interactiva categorizada, navegación fluida entre secciones y un diseño totalmente responsive. Desarrollado con React, utilizando React Router para el enrutamiento dinámico.",

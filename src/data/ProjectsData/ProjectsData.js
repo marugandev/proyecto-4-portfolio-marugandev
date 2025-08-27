@@ -3,10 +3,10 @@ export const ProjectsData = [
     name: "FRASEANDTISERT - FRONT",
     description:
       "fraseandtisert es un proyecto full-stack que ofrece una API para gestionar autenticación, usuarios, productos, pedidos y otras funcionalidades relacionadas. El modelo de negocio es una tienda de camisetas.",
-    href: "https://artejuanmayor.vercel.app/",
+    href: "https://front-proyecto-13-fraseandtisert.vercel.app/",
     target: "_blank",
     rel: "noopener noreferrer",
-    imgSrc: "/assets/images/front-proyecto-13-fraseandtisert.vercel.app.webp",
+    imgSrc: "/assets/images/1.app.webp",
     imgAlt: "fraseandtisert - front",
     github: {
       href: "https://github.com/marugandev/FRONT-proyecto-13-fraseandtisert",
@@ -28,8 +28,8 @@ export const ProjectsData = [
   {
     name: "FRASEANDTISERT - BACK",
     description:
-      "ffraseandtisert es un proyecto full-stack que proporciona una API para gestionar autenticaciones, usuarios, productos, pedidos y funcionalidades relacionadas.",
-    href: "https://artejuanmayor.vercel.app/",
+      "fraseandtisert es un proyecto full-stack que proporciona una API para gestionar autenticaciones, usuarios, productos, pedidos y funcionalidades relacionadas.",
+    href: "https://back-proyecto-13-fraseandtisert.vercel.app/",
     target: "_blank",
     rel: "noopener noreferrer",
     imgSrc: "/assets/images/back-proyecto-13-fraseandtisert.vercel.app.webp",
